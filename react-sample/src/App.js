@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p> Designed by Rekkam Kousseila </p>
       </header>
     </div>
   );
